@@ -6,6 +6,8 @@
 | :------ | :---------------------------------------------- | :---- | :--- |
 | TRA7421 | Traxxas Slash 4X4 Low CG Chassis Conversion Kit | (_1_) | $75  |
 
+> _The table below is an alternative to the LCG conversion_
+
 | Part #   | Description                                        | Notes | Cost |
 | :------- | :------------------------------------------------- | :---- | :--- |
 | TRA7224A | Traxxas Slash 4X4 Ultimate Chassis (Charcoal Grey) |       | $20  |
