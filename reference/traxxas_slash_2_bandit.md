@@ -18,11 +18,19 @@
 | TRA2443  | Traxxas 36mm Camber Link Turnbuckle Set                     |       | $7   |
 | TRA2478A | Traxxas Anaconda Rear Tires w/Tracer Wheels                 | (_3_) | $23  |
 | TRA2479A | Traxxas Anaconda Front Tires w/Tracer 2.2" Wheels           | (_3_) | $22  |
-| EXO2060  | Exotek Slash 2WD Drag HD Steel CVD Axle Set                 | (_4_) | $35  |
+| TRA1651  | Traxxas Driveshaft Set                                      | (_4_) | $6   |
+
+## Alternatives/Upgrades
+
+| Part #   | Description                                 | Notes | Cost |
+| :------- | :------------------------------------------ | :---- | :--- |
+| EXO2060  | Exotek Slash 2WD Drag HD Steel CVD Axle Set | (_5_) | $35  |
+| RPM73282 | RPM Traxxas Bandit Rear A-Arm Set (Black)   |       | $10  |
 
 > ## Notes
 >
 > -   _1_ - _Clear body kits do not include the wing mounts or wire_
 > -   _2_ - _Can omit to save weight?_
 > -   _3_ - _Wheels and Tires to suit driving surface. These use the specific offsets for the Bandit_
-> -   _4_ - _Upgrade over stock plastic shafts_
+> -   _4_ - _This will require disassembly of the old driveshafts_
+> -   _5_ - _Upgrade over stock plastic shafts_
