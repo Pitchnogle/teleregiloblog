@@ -9,6 +9,7 @@
 | TRA6739  | Traxxas Rustler 4X4 Front Shock Tower                       |       | $6   |
 | TRA6736  | Traxxas Rustler 4X4 Front Bumper w/Mount                    |       | $6   |
 | TRA7430R | Traxxas Long Chassis Front Bulkhead                         |       | $6   |
+| TRA6765  | Traxxas Rustler 4X4 Aluminum Center Driveshaft              |       | $10  |
 | TRA6738  | Traxxas Rustler 4X4 Rear Shock Tower                        |       | $6   |
 | TRA6737  | Traxxas Rustler 4X4 Rear Bumper w/Mount                     |       | $7   |
 | TRA6776  | Traxxas Rustler 4X4 Wheelie Bar                             |       | $10  |
